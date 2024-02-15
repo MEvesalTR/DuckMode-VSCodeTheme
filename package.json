@@ -3,34 +3,34 @@
   "displayName": "Duck Mode!",
   "description": "A special theme for my lonely duck walking in the dark!",
   "publisher": "MEvesalTR",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": {
-		"name": "Mohammad Erfan Vesaltalab Ravari",
-		"email": "MEvesalTR@gmail.com"
-	},
+    "name": "Mohammad Erfan Vesaltalab Ravari",
+    "email": "MEvesalTR@gmail.com"
+  },
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
-		"type": "git",
-		"url": "https://github.com/MEvesalTR/duck-mode"
-	},
-	"bugs": {
-		"url": "https://github.com/MEvesalTR/duck-mode/issues",
-		"email": "MEvesalTR@gmail.com"
-	},
+    "type": "git",
+    "url": "https://github.com/MEvesalTR/duck-mode"
+  },
+  "bugs": {
+    "url": "https://github.com/MEvesalTR/duck-mode/issues",
+    "email": "MEvesalTR@gmail.com"
+  },
   "icon": "./assets/logo.png",
   "galleryBanner": {
-		"color": "#110f17",
-		"theme": "dark"
-	},
+    "color": "#110f17",
+    "theme": "dark"
+  },
   "keywords": [
-		"theme",
-		"dark",
-		"duck-mode",
-		"color-theme",
+    "theme",
+    "dark",
+    "duck-mode",
+    "color-theme",
     "icons",
-		"icon-theme",
-		"customization"
-	],
+    "icon-theme",
+    "customization"
+  ],
   "engines": {
     "vscode": "^1.86.0"
   },
@@ -46,11 +46,11 @@
       }
     ],
     "iconThemes": [
-			{
-				"id": "duck-mode",
-				"label": "Duck Icons",
-				"path": "./icons/duck-icons.json"
-			}
+      {
+        "id": "duck-mode",
+        "label": "Duck Icons",
+        "path": "./icons/duck-icons.json"
+      }
     ]
   }
 }
