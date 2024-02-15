@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://github.com/MEvesalTR/duck-mode/blob/master/assets/logo-with-shadow.png?raw=true" alt="Duck Mode" width="50%" />
+  <img src="https://github.com/MEvesalTR/duck-mode/blob/master/assets/logo-with-shadow.png?raw=true" alt="Duck Mode" width="75%" />
 </p>
-
-
-<br>
 
 
 <p align="center">
