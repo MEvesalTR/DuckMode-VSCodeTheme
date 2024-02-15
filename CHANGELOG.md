@@ -2,7 +2,7 @@
 
 Source from: https://github.com/MEvesalTR/duck-mode
 
-## 0.9.0
+## 0.9.1
 `2024-02-15`
 - 🪐 Thanks to [Hamide14](https://github.com/Hamide14) for her valuable contribution 🪐
 - 💫 Theming for the VSCode 1.13 and onwards 💫
