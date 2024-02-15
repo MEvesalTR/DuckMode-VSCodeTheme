@@ -1,0 +1,55 @@
+{
+  "name": "duck-mode",
+  "displayName": "Duck Mode",
+  "description": "A special theme for my lonely duck walking in the dark!",
+  "version": "0.0.1",
+  "author": {
+		"name": "Mohammad Erfan Vesaltalab Ravari",
+		"email": "MEvesalTR@gmail.com"
+	},
+  "license": "SEE LICENSE IN LICENSE.md",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/MEvesalTR/duck-mode"
+	},
+	"bugs": {
+		"url": "https://github.com/MEvesalTR/duck-mode/issues",
+		"email": "MEvesalTR@gmail.com"
+	},
+  "icon": "./assets/logo.png",
+  "galleryBanner": {
+		"color": "#110f17",
+		"theme": "dark"
+	},
+  "keywords": [
+		"theme",
+		"dark",
+		"duck-mode",
+		"color-theme",
+    "icons",
+		"icon-theme",
+		"customization"
+	],
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Duck in the Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/duck-in-the-dark-theme.json"
+      }
+    ],
+    "iconThemes": [
+			{
+				"id": "duck-mode",
+				"label": "Duck Icons",
+				"path": "./icons/duck-icons.json"
+			}
+    ]
+  }
+}
