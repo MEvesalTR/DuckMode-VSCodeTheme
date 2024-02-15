@@ -935,7 +935,7 @@
 			"name": "[VSCODE-CUSTOM] Markdown Inline Raw",
 			"scope": "markup.inline.raw.string.markdown",
 			"settings": {
-				"foreground": "#14ffaf"
+				"foreground": "#a277ff"
 			}
 		},
 		{
@@ -983,12 +983,12 @@
 			"name": "[VSCODE-CUSTOM] Markdown Underline Link/Image",
 			"scope": "markup.underline.link.markdown,markup.underline.link.image.markdown",
 			"settings": {
-				"foreground": "#a277ff"
+				"foreground": "#14ffaf"
 			}
 		},
 		{
 			"name": "[VSCODE-CUSTOM] Markdown Link Title/Description",
-			"scope": "string.other.link.title.markdown,string.other.link.description.markdown",
+			"scope": "string.other.link.title.markdown,string.other.link.description.markdown, punctuation.definition.link.title.begin.markdown, punctuation.definition.link.title.end.markdown",
 			"settings": {
 				"foreground": "#4bd2ff"
 			}
@@ -2110,9 +2110,12 @@
 		"statusBar.background": "#110f17",
 		"statusBar.foreground": "#adacae",
 		"statusBar.border": "#000000",
+		"statusBar.noFolderBackground": "#110f17",
 		"statusBar.debuggingForeground": "#110f17",
 		"statusBar.debuggingBackground": "#a19c77",
 		"statusBarItem.activeBackground": "#a277ff",
+		"statusBarItem.remoteBackground": "#a277ff",
+		"statusBarItem.remoteForeground": "#110f17",
 		"dropdown.background": "#110f17",
 		"dropdown.border": "#3b334b",
 		"dropdown.foreground": "#cdccce",
@@ -2190,7 +2193,7 @@
 		"activityBar.border": "#000000",
 		"activityBarBadge.background": "#a277ff",
 		"activityBarBadge.foreground": "#110f17",
-		"activityBar.activeBorder": "#a277ff",
+		"activityBar.activeBorder": "#ffb95a",
 		"badge.foreground": "#110f17",
 		"badge.background": "#a277ff",
 		"sideBar.background": "#110f17",
@@ -2206,6 +2209,8 @@
 		"scrollbarSlider.hoverBackground": "#a394f033",
 		"terminal.background": "#110f17",
 		"terminal.foreground": "#cdccce",
+		"terminal.tab.activeBorder": "#4bd2ff",
+		"terminal.border": "#4bd2ff",
 		"terminal.ansiBlack": "#110f17",
 		"terminal.ansiBlue": "#a277ff",
 		"terminal.ansiBrightBlack": "#2d2d2d",
