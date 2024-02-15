@@ -1,9 +1,12 @@
-# Change Log
+# Duck Mode! Changelog
 
-All notable changes to the "duck-mode" extension will be documented in this file.
+Source from: https://github.com/MEvesalTR/duck-mode
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 0.9.0
+`2024-02-15`
+- 🪐 Thanks to [Hamide14](https://github.com/Hamide14) for her valuable contribution 🪐
+- 💫 Theming for the VSCode 1.13 and onwards 💫
 
-## [Unreleased]
-
-- Initial release
+## 0.1.0
+`2024-02-14`
+- 🎉 Initial release 🎉
