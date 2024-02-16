@@ -2,6 +2,10 @@
 
 Source from: https://github.com/MEvesalTR/duck-mode
 
+## 0.9.3
+`2024-02-16`
+- Fix logo in light backgrounds
+
 ## 0.9.2
 `2024-02-15`
 - Fix no-folder status color

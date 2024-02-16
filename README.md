@@ -52,6 +52,10 @@
 
 # 🚨 Changelog
 
+## 0.9.3
+`2024-02-16`
+- Fix logo in light backgrounds
+
 ## 0.9.2
 `2024-02-15`
 - Fix no-folder status color
@@ -61,7 +65,7 @@
 ## 0.9.1
 `2024-02-15`
 - 🪐 Thanks to [Hamide14](https://github.com/Hamide14) for her valuable contribution 🪐
-- 💫 Theming for the VSCode 1.13 and onwards 💫
+- Theming for the VSCode 1.13 and onwards
 
 ## 0.1.0
 `2024-02-14`
