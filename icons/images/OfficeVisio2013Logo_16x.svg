@@ -5,7 +5,7 @@
 <style type="text/css">
 	.st0{fill:#F6F6F6;fill-opacity:0;}
 	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#F6F6F6;}
-	.st2{fill:#4BD2FF;}
+	.st2{fill:#41D7FF;}
 	.st3{fill:#FFFFFF;}
 </style>
 <g id="outline">
@@ -13,11 +13,11 @@
 	<polygon class="st1" points="3,14.3 3,1.7 14.1,0 14.1,16 	"/>
 </g>
 <g id="color_x5F_decoration">
-	<path class="st2" d="M4,2.5v10.9l9,1.4V1.2L4,2.5z M9.3,12l-1.6-0.1L5.5,4l1.5,0l1.3,5.5c0.1,0.3,0.1,0.6,0.1,0.8l0,0
-		c0-0.3,0.1-0.5,0.1-0.8L10,4.1l1.5,0L9.3,12z"/>
+	<path class="st2" d="M4,2.5v10.9l9,1.4V1.2L4,2.5z M9.3,12l-1.6-0.1L5.5,4H7l1.3,5.5c0.1,0.3,0.1,0.6,0.1,0.8l0,0
+		c0-0.3,0.1-0.5,0.1-0.8L10,4.1h1.5L9.3,12z"/>
 </g>
 <g id="not_x5F_fg">
-	<path class="st3" d="M11.5,4.1L9.3,12l-1.6-0.1L5.5,4l1.5,0l1.3,5.5c0.1,0.3,0.1,0.6,0.1,0.8l0,0c0-0.3,0.1-0.5,0.1-0.8L10,4.1
-		L11.5,4.1z"/>
+	<path class="st3" d="M11.5,4.1L9.3,12l-1.6-0.1L5.5,4H7l1.3,5.5c0.1,0.3,0.1,0.6,0.1,0.8l0,0c0-0.3,0.1-0.5,0.1-0.8L10,4.1H11.5z"
+		/>
 </g>
 </svg>

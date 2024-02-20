@@ -5,7 +5,7 @@
 <style type="text/css">
 	.st0{fill:#F6F6F6;fill-opacity:0;}
 	.st1{fill:#F6F6F6;}
-	.st2{fill:#FFB95A;}
+	.st2{fill:#FFBE41;}
 	.st3{fill:#F3F3F3;}
 </style>
 <g id="canvas">
@@ -17,7 +17,7 @@
 </g>
 <g id="iconBg">
 	<path class="st2" d="M14.5,2H7L6,4H2.5C2.2,4,2,4.2,2,4.5v8C2,12.8,2.2,13,2.5,13h12c0.3,0,0.5-0.2,0.5-0.5v-10
-		C15,2.2,14.8,2,14.5,2z M14,4H7.5L8,3h0h6V4z"/>
+		C15,2.2,14.8,2,14.5,2z M14,4H7.5L8,3l0,0h6V4z"/>
 </g>
 <g id="iconFg">
 	<path id="XMLID_5_" class="st3" d="M14,3v1H7.5L8,3H14z"/>

@@ -9,7 +9,7 @@
 	.st3{fill:#BD1E2D;}
 	.st4{display:none;fill:#F3F3F3;}
 	.st5{fill:#F3F3F3;}
-	.st6{fill:#FF6767;}
+	.st6{fill:#FF5164;}
 </style>
 <g id="outline">
 	<rect class="st0" width="16" height="16"/>
@@ -20,7 +20,7 @@
 	<rect x="5" y="4" class="st2" width="1" height="1"/>
 	<rect x="5" y="6" class="st2" width="1" height="1"/>
 	<rect x="5" y="8" class="st2" width="1" height="1"/>
-	<path class="st3" d="M9.7,7l-5.3,5h1.4L7,11h3v1h1V7H9.7z M10,10H8L10,8L10,10z"/>
+	<path class="st3" d="M9.7,7l-5.3,5h1.4L7,11h3v1h1V7H9.7z M10,10H8l2-2V10z"/>
 	<polygon class="st4" points="4,3 9,3 9,5 12,5 12,13 4,13 	"/>
 </g>
 <g id="icon_x5F_fg">
@@ -32,6 +32,6 @@
 	<rect x="5" y="4" class="st2" width="1" height="1"/>
 	<rect x="5" y="6" class="st2" width="1" height="1"/>
 	<rect x="5" y="8" class="st2" width="1" height="1"/>
-	<path class="st6" d="M9.7,7l-5.3,5h1.4L7,11h3v1h1V7H9.7z M10,10H8L10,8L10,10z"/>
+	<path class="st6" d="M9.7,7l-5.3,5h1.4L7,11h3v1h1V7H9.7z M10,10H8l2-2V10z"/>
 </g>
 </svg>

@@ -52,6 +52,13 @@
 
 # 🚨 Changelog
 
+## 0.9.5
+`2024-02-20`
+- Improve all of the colors
+- Update icons with the new colors
+- Apply Italic style to Keywords
+- Fix color cast balance throughout the code
+
 ## 0.9.3
 `2024-02-16`
 - Fix logo in light backgrounds
