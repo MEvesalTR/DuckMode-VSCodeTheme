@@ -4,7 +4,7 @@
 
 
 <p align="center">
-✨ A beautiful dark theme for both the Color and File Icon Theme! ✨
+✨ A beautiful dark theme for the Color Theme! ✨
 <br>
 🦆 When my lonely duck walks in the dark ... 🦆 
 </p>
@@ -20,19 +20,14 @@
   <img alt="preview" src="https://github.com/MEvesalTR/duck-mode/blob/master/assets/shot-3.png?raw=true" >
 </p>
 
-
 <br>
 
 
 # 🎨 Themes available <br>
-  - Color Themes: **Duck in the Dark**
-    - *Fully customized version of [Aura Theme](https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme)*
-
-<br>
-
-  - File Icon Themes: **Duck Icons**
-    - *Fully customized version of [Studio Icons](https://marketplace.visualstudio.com/items?itemName=jtlowe.vscode-icon-theme)*
-
+  - Color Themes: 
+    - **Duck in the Dream:** *Fully customized version of [Aura Theme](https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme)*
+    
+    - **Duck in the Lake:** *Fully customized version of [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)*
 
 <br>
 
@@ -42,7 +37,7 @@
 2. Search for **[Duck Mode](https://marketplace.visualstudio.com/items?itemName=MEvesalTR.duck-mode-vscode)**
 3. Click **Install**
 4. Open the **Command Palette** with <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> or <kbd>⇧</kbd> + <kbd>⌘</kbd> + <kbd>P</kbd>
-5. Select **Preferences: Color Theme** and choose **Duck in the Dark**.
+5. Select **Preferences: Color Theme** and choose **Duck in the Dream** or **Duck in the Lake**.
 6. Open the **Command Palette** once again.
 6. Select **Preferences: File Icon Theme** and choose **Duck Icons**.
 
@@ -51,6 +46,12 @@
 
 
 # 🚨 Changelog
+
+## 0.9.7
+`2024-04-25`
+- 🎉 Add an another color theme 🎉
+- Remove file icon theme
+- Fix color cast balance throughout the code
 
 ## 0.9.5
 `2024-02-20`
@@ -73,10 +74,6 @@
 `2024-02-15`
 - 🪐 Thanks to [Hamide14](https://github.com/Hamide14) for her valuable contribution 🪐
 - Theming for the VSCode 1.13 and onwards
-
-## 0.1.0
-`2024-02-14`
-- 🎉 Initial release 🎉
 
 <br>
 

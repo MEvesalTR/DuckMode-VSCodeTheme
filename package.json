@@ -1,7 +1,7 @@
 {
   "name": "duck-mode-vscode",
   "displayName": "Duck Mode!",
-  "description": "A beautiful dark theme for both the Color and File Icon Theme!",
+  "description": "A beautiful dark theme for the Color Theme!",
   "publisher": "MEvesalTR",
   "version": "0.9.5",
   "author": {
@@ -40,16 +40,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Duck in the Dark",
+        "label": "Duck in the Dream",
         "uiTheme": "vs-dark",
-        "path": "./themes/duck-in-the-dark-theme.json"
-      }
-    ],
-    "iconThemes": [
+        "path": "./themes/duck-in-the-dream.json"
+      },
       {
-        "id": "duck-mode",
-        "label": "Duck Icons",
-        "path": "./icons/duck-icons.json"
+        "label": "Duck in the Lake",
+        "uiTheme": "vs-dark",
+        "path": "./themes/duck-in-the-lake.json"
       }
     ]
   }
