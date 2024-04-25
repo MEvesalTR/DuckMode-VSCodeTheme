@@ -49,7 +49,7 @@
 
 ## 0.9.7
 `2024-04-25`
-- 🎉 Add an another color theme 🎉
+- 🎉 Add an another color theme 🎉0.9.7🎉
 - Remove file icon theme
 - Fix color cast balance throughout the code
 
