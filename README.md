@@ -38,8 +38,6 @@
 3. Click **Install**
 4. Open the **Command Palette** with <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> or <kbd>⇧</kbd> + <kbd>⌘</kbd> + <kbd>P</kbd>
 5. Select **Preferences: Color Theme** and choose **Duck in the Dream** or **Duck in the Lake**.
-6. Open the **Command Palette** once again.
-6. Select **Preferences: File Icon Theme** and choose **Duck Icons**.
 
 
 <br>
